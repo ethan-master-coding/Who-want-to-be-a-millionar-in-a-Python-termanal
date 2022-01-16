@@ -50,7 +50,7 @@ if (question_1.lower() == "c"):
                 print("correct")
                 
                 print("Question #9. $30,000")
-                question_9 = input("Which Shakespeare play features the line \"Neither a borrower nor a lender be\"? \n A. Hamlet \n B. Bacbeth \n C. Othello \n D. The Merchent of Venice \n")
+                question_9 = input("Which Shakespeare play features the line \"Neither a borrower nor a lender be\"? \n A. Hamlet \n B. Macbeth \n C. Othello \n D. The Merchant of Venice \n")
 
                 if (question_9.lower() == "a"):
                   print("correct")
