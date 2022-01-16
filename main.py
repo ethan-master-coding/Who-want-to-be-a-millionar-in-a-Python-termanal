@@ -16,7 +16,7 @@ if (question_1.lower() == "c"):
     print("correct")
 
     print("Question #3. $2,000")
-    question_3 = input("Which battles took place between the Royal Houses of York and Lancaster? \n A. Thirty Years War \n B. Hundred Years war \n C. War of the Roses \n D. English Cival war \n")
+    question_3 = input("Which battles took place between the Royal Houses of York and Lancaster? \n A. Thirty Years War \n B. Hundred Years war \n C. War of the Roses \n D. English Civil war \n")
 
     if (question_3.lower() == "c"):
       print("correct")
