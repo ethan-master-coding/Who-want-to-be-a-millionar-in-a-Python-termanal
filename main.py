@@ -56,6 +56,45 @@ if (question_1.lower() == "c"):
                   print("correct")
 
                   print("Question #10. $50,000")
+                  question_10 = input("Which is the largest city in the USA's largest state? \n A. Dallas \n B. Los Angeles \n C. New York \n D. Anchorage \n")
+
+                  if (question_10.lower() == "D"):
+                    print("correct")
+                    
+                    print("Question #11. $100,000")
+                    question_11 = input("The word \"aristocracy\" literally means power in the hands of whom? \n A. The few \n B. The best \n C. The barons \n D. The rich \n")
+
+                    if (question_11.lower() == "b"):
+                      print("correct")
+
+                      print("Question #12. $250,000")
+                      question_12 = input("Where would a \"peruke\" be worn? \n A. Around the neck \n B. On the head \n C. Around the waist \n D. On the wrist \n")
+
+                      if (question_12.lower() == "b"):
+                        print("correct")
+                        
+                        print("Question #13. $500,000")
+                        question_13 = input("In which palace was Queen Elizabeth I born? \n A. Greenwich \n B. Richmond \n C. Hampton Court \n D. Kensington \n")
+
+                        if (question_13.lower() == "a"):
+                          print("correct")
+
+                          print("Question #14. Last question. $1,000,000")
+                          question_14 = input("From which author's work did scientists take the word \"quark\"? \n A. Lewis Carroll \n B. Edward Lear \n C. James Joyce \n D. Aldous Huxley \n")
+
+                          if (question_14.lower() == "c"):
+                            print("correct")
+                            print("YOU HAVE WON $1,000,000*. CONGRATULATIONS")
+                          else:
+                            print("Sorry that is not right. Run this program agian to play agian.")
+                        else:
+                          print("Sorry that is not right. Run this program agian to play agian.")
+                      else:
+                        print("Sorry that is not right. Run this program agian to play agian.")  
+                    else:
+                      print("Sorry that is not right. Run this program agian to play agian.")
+                  else:
+                    print("Sorry that is not right. Run this program agian to play agian.")
                 else:
                   print("Sorry that is not right. Run this program agian to play agian.")  
               else:
