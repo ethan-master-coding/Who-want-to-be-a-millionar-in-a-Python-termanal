@@ -28,7 +28,7 @@ if (question_1.lower() == "c"):
         print("correct")
         
         print("Question #5. $5,000")
-        question_5 = input("Queen Anne was the daughter of which English Monarch? \n A. James II \n Henry VII \n C. Victoria \n D. William I \n")
+        question_5 = input("Queen Anne was the daughter of which English Monarch? \n A. James II \n B. Henry VII \n C. Victoria \n D. William I \n")
         if (question_5.lower() == "a"):
           print("corect")
 
